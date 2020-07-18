@@ -1,0 +1,10 @@
+.Card-root{
+    margin: 0px 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.Label{
+    font-size: calc(10px + 3vmin);
+    ;
+}

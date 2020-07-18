@@ -1,0 +1,9 @@
+.Card-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.Label{
+    font-size: calc(10px + 4vmin);
+    ;
+}
